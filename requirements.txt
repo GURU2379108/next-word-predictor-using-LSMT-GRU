@@ -2,3 +2,4 @@ streamlit
 tensorflow==2.13.0
 numpy
 pickle-mixin
+keras==2.13.1
